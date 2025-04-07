@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Assembly-Game/static/css/main.eb746e02.css",
-    "main.js": "/Assembly-Game/static/js/main.d9104a8c.js",
+    "main.js": "/Assembly-Game/static/js/main.9697cfdf.js",
     "static/js/453.85d2ef9a.chunk.js": "/Assembly-Game/static/js/453.85d2ef9a.chunk.js",
     "index.html": "/Assembly-Game/index.html",
     "main.eb746e02.css.map": "/Assembly-Game/static/css/main.eb746e02.css.map",
-    "main.d9104a8c.js.map": "/Assembly-Game/static/js/main.d9104a8c.js.map",
+    "main.9697cfdf.js.map": "/Assembly-Game/static/js/main.9697cfdf.js.map",
     "453.85d2ef9a.chunk.js.map": "/Assembly-Game/static/js/453.85d2ef9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb746e02.css",
-    "static/js/main.d9104a8c.js"
+    "static/js/main.9697cfdf.js"
   ]
 }
