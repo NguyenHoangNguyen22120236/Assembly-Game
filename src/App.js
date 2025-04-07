@@ -14,7 +14,6 @@ function App() {
   const [attempts, setAttempts] = useState(0);
   const [gameOver, setGameOver] = useState(false);
   const [gameWon, setGameWon] = useState(false);
-  console.log(word);
 
   useEffect(() => {
     const won = word.split("").every(letter => lettersFound.includes(letter));
