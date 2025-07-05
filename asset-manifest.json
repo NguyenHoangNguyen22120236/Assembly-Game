@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Assembly-Game/static/css/main.eb746e02.css",
-    "main.js": "/Assembly-Game/static/js/main.9697cfdf.js",
-    "static/js/453.85d2ef9a.chunk.js": "/Assembly-Game/static/js/453.85d2ef9a.chunk.js",
-    "index.html": "/Assembly-Game/index.html",
-    "main.eb746e02.css.map": "/Assembly-Game/static/css/main.eb746e02.css.map",
-    "main.9697cfdf.js.map": "/Assembly-Game/static/js/main.9697cfdf.js.map",
-    "453.85d2ef9a.chunk.js.map": "/Assembly-Game/static/js/453.85d2ef9a.chunk.js.map"
+    "main.css": "/static/css/main.eb746e02.css",
+    "main.js": "/static/js/main.cf753497.js",
+    "static/js/453.85d2ef9a.chunk.js": "/static/js/453.85d2ef9a.chunk.js",
+    "index.html": "/index.html",
+    "main.eb746e02.css.map": "/static/css/main.eb746e02.css.map",
+    "main.cf753497.js.map": "/static/js/main.cf753497.js.map",
+    "453.85d2ef9a.chunk.js.map": "/static/js/453.85d2ef9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb746e02.css",
-    "static/js/main.9697cfdf.js"
+    "static/js/main.cf753497.js"
   ]
 }
