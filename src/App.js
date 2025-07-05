@@ -8,7 +8,7 @@ import {getFarewellText} from './utils'
 
 function App() {
   const [word, setWord] = useState(words[Math.floor(Math.random() * words.length)]);
-  const alphabet = "abcdefghijklmnopqrstuvwxyz";
+  const alphabet = "abcdefghijklmnopqrstuvwxy";
   const [lettersFound, setlettersFound] = useState([]);
   const [lettersFoundInCorrect, setlettersFoundInCorrect] = useState([]);
   const [attempts, setAttempts] = useState(0);
